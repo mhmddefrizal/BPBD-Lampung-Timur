@@ -1,0 +1,204 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.top-info {
+  background-color: orange;
+  padding: 20px;
+}
+
+.welcome {
+  color: white;
+  text-align: left;
+  font-weight: bold;
+}
+
+.instagram {
+  font-size: 20px;
+  text-align: center;
+  margin-right: 10px;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285aeb 90%);
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  color: white;
+  line-height: 28px;
+}
+
+div#root {
+  overflow: hidden;
+}
+
+.facebook {
+  font-size: 20px;
+  text-align: center;
+  margin-right: 10px;
+  background-color: blue;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  color: white;
+  line-height: 28px;
+}
+.col-md-6.medsos {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.youtube {
+  font-size: 20px;
+  text-align: center;
+  background-color: red;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  color: white;
+  line-height: 28px;
+}
+
+.profile {
+  margin-right: 175px !important;
+}
+
+.logo img {
+  width: 80px;
+}
+
+.keteranganlogo {
+  font-weight: bold;
+}
+
+.telpon {
+  margin-top: 15px;
+}
+
+.notelp img {
+  width: 50px;
+}
+
+.keterangantelp {
+  font-weight: bold;
+}
+
+.mail {
+  margin-top: 15px;
+}
+
+.email img {
+  width: 80px;
+}
+
+.keteranganemail {
+  font-weight: bold;
+}
+
+.pengaduanmasyarakat {
+  background-color: orange !important;
+  color: black;
+  margin-top: 80px;
+  padding: 80px;
+}
+
+.pengaduanmasyarakat_ {
+  text-align: left;
+}
+
+.callus {
+  text-align: center;
+}
+
+.telponpm {
+  width: 50px;
+}
+
+.emailpm {
+  width: 80px;
+}
+
+.kettelponpm {
+  color: black;
+  margin-left: 10px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ketemailpm {
+  color: black;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.tentang {
+  text-align: center;
+  color: orange !important;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.maps {
+  color: orange !important;
+  text-align: left;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.lokasi {
+  margin-top: 20px;
+  margin-right: 500px;
+}
+
+.bukutamu {
+  color: orange !important;
+  font-weight: bold;
+  margin-top: 50px;
+  text-align: left;
+}
+
+.form {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 70px !important;
+  color: white;
+  font-weight: bold;
+  padding-bottom: 20px;
+  background-color: orange;
+}

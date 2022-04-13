@@ -1,0 +1,291 @@
+.gambarbpbdlamtim {
+  width: 1350px;
+  height: 500px;
+}
+
+.linkberita {
+  color: black;
+  text-decoration: none;
+}
+
+.headerberita {
+  margin-top: 40px;
+  margin-left: 50px;
+  text-align: left;
+}
+
+.terbaru {
+  color: orange !important;
+}
+
+.portalberita {
+  margin-top: 30px;
+  margin-left: 40px;
+}
+
+.judulputingbeliung {
+  text-align: left;
+}
+
+.textputingbeliung {
+  text-align: left;
+}
+
+.judulkepalabpbd {
+  text-align: left;
+}
+
+.textkepalabpbd {
+  text-align: left;
+}
+
+.readmore {
+  color: blue !important;
+  font-weight: bold;
+  margin-right: 200px;
+}
+
+.headerlg {
+  text-align: left;
+}
+
+.textlg1 {
+  margin-right: 290px;
+}
+
+.textlg2 {
+  margin-right: 290px;
+}
+
+.textlg3 {
+  margin-right: 320px;
+}
+
+.textlg4 {
+  margin-right: 290px;
+}
+
+.supportus {
+  background-color: orange;
+  margin-top: 50px;
+  padding: 65px;
+}
+
+.logolaporan {
+  width: 150px;
+  background-color: white;
+}
+
+.logobadanpusat {
+  width: 200px;
+  height: 120px;
+  background-color: white;
+}
+
+.logolawancovid {
+  width: 200px;
+  height: 120px;
+  background-color: white;
+}
+
+.logojdih {
+  width: 200px;
+  height: 100px;
+}
+
+.icbukb {
+  margin-top: 50px;
+  margin-right: 500px;
+}
+
+.infocuaca_ {
+  text-align: center;
+}
+
+.infogempa {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.btngempaorange {
+  margin-left: 55px;
+  margin-top: 20px;
+}
+
+.btngempaputihorange {
+  margin-top: 20px;
+}
+
+.kepalabadan {
+  font-size: 20px;
+  margin-left: 220px;
+}
+
+.kepalabpbdlamtim {
+  width: 350px;
+  height: 250px;
+  margin-top: 25px;
+  margin-left: 220px;
+}
+
+.namakepalabpbd {
+  margin-left: 300px;
+}
+
+.headerberitaumum {
+  text-align: center;
+  margin-right: 100px;
+}
+
+.beritaumum {
+  margin-top: 25px;
+  margin-left: 70px;
+}
+
+.beritaumumlg {
+  margin-left: 70px;
+  width: 560px;
+  text-align: left;
+}
+
+.beritaumumputingbeliung {
+  height: 340px;
+}
+
+.titleberitaumum {
+  text-align: left;
+}
+
+.textberitaumum {
+  text-align: left;
+}
+
+.pemerintahkabupaten {
+  margin-top: 50px;
+  margin-left: 70px;
+}
+
+.kabupaten {
+  color: orange !important;
+}
+
+.headerpemkab {
+  text-align: left;
+}
+
+.pemkablg {
+  width: 560px;
+  margin-top: 20px;
+  text-align: left;
+}
+
+.pengumuman {
+  margin-top: 30px;
+  margin-left: 250px;
+}
+
+.lgpengumuman {
+  width: 270px;
+  height: 100px;
+}
+
+.headerpengumuman {
+  margin-top: 20px;
+}
+
+.publikasi {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+.lgpublikasi {
+  width: 270px;
+  height: 100px;
+}
+
+.headerpublikasi {
+  margin-top: 20px;
+}
+
+.jumlahpengunjung {
+  margin-top: 50px;
+  margin-left: 250px;
+}
+
+.jumlahpengunjunglg {
+  width: 270px;
+}
+
+.jmlhpengunjung {
+  text-align: center;
+  background-color: orange !important;
+  color: white;
+  font-weight: bold;
+}
+
+.hari {
+  margin-right: 55px;
+}
+
+.angka {
+  margin-left: 100px;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+}
+
+.minggu {
+  margin-right: 30px;
+}
+
+.bulan {
+  margin-right: 45px;
+}
+
+.angkabulan {
+  margin-left: 95px;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+}
+
+.tahun {
+  margin-right: 40px;
+}
+
+.angkatahun {
+  margin-left: 95px;
+  background-color: gray;
+  color: white;
+  font-weight: bold;
+  border-radius: 50px;
+}
+
+.headergallery {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.kegiatan {
+  color: orange !important;
+}
+
+.fotogallery {
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.fotokegiatanbpbd {
+  width: 385px;
+  height: 230px;
+  border: solid black 3px;
+}
+
+.fotokegiatanbpbd2 {
+  width: 385px;
+  height: 230px;
+  margin-top: 20px;
+  border: solid black 3px;
+}
